@@ -7,7 +7,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'curve.dart';
-void main() => runApp(MyApp());
+void main() => runApp(ShowGraph());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
